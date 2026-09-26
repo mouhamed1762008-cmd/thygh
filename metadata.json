@@ -1,0 +1,6 @@
+{
+  "name": "Aether Stream - Cinematic Glassmorphism VOD",
+  "description": "A premium modern VOD streaming platform featuring a dark cinematic glassmorphism UI, 4K HDR playback, live TV guide, personalized library, and immersive search.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
